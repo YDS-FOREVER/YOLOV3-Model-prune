@@ -1,0 +1,37 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>010138_hand.jpg</filename>
+	<source>
+		<database>voc-2007-test</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1.227062e+02</xmin>
+			<ymin>3.981728e+02</ymin>
+			<xmax>1.817535e+02</xmax>
+			<ymax>4.426965e+02</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1.329986e+02</xmin>
+			<ymin>4.044208e+02</ymin>
+			<xmax>2.122804e+02</xmax>
+			<ymax>4.582350e+02</ymax>
+		</bndbox>
+	</object>
+</annotation>
